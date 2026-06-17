@@ -37,7 +37,7 @@ const contacts = [
     bg: "bg-orange-500/10",
     label: "Tableau Public",
     display: "View my dashboards",
-    href: "#", // TODO: replace with your Tableau Public profile link
+    href: "https://public.tableau.com/app/profile/anshi.singh3315/vizzes", // TODO: replace with your Tableau Public profile link
     external: true,
   },
 ];

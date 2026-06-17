@@ -8,7 +8,7 @@ interface ResumeProps {
 const Resume: FC<ResumeProps> = ({ isResponsive = false }) => {
     return (
         <a
-            href="/Apoorv_Saxena_Resume.pdf"
+            href="/anshi_singh_Resume.pdf"
             target="_blank"
             className={`hidden ${isResponsive ? "inline-flex" : ""} items-center justify-center gap-2 px-4 py-2 rounded-lg
              border border-black/10 dark:border-white/10
